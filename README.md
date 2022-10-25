@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EhsanKinux
 - 👀 I’m interested in learning and experiencing new things
-- 🌱 I’m currently learning Java & Python & Network-Security and etc.
+- 🌱 I’m currently learning HTML & CSS & JavaSctipt & React & Java & Python & Network-Security and etc.
 - 💞️ I’m looking to collaborate on any challenging projects or tutorials in order to learning and experiencing new things 
 - 📫 How to reach me ...
 
