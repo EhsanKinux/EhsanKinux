@@ -42,7 +42,7 @@
 
   [![EKinux's github stats](https://github-readme-stats.vercel.app/api?username=EhsanKinux&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EhsanKinux)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EhsanKinux&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
