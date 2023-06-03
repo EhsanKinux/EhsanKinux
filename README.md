@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://redteam360.com/wp-content/uploads/2021/09/ethical-hacker-junior.png" width="100"/>
+  <div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
+  </div>
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -40,13 +42,10 @@
 - 💞️ I’m looking to collaborate on any challenging projects or tutorials in order to learning and experiencing new things 
 - 📫 How to reach me ...
 
-  [![EKinux's github stats](https://github-readme-stats.vercel.app/api?username=EhsanKinux&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EhsanKinux&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-  
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
-</div>
+     [![EKinux's github stats](https://github-readme-stats.vercel.app/api?username=EhsanKinux&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+      
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EhsanKinux&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
